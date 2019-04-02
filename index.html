@@ -8,10 +8,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="css/index.css" rel="stylesheet">
 <title>shaz.com</title>
+  <script>
+function myFunction() {
+  document.getElementById("demo").innerHTML ="This picture was taken on the 1st of December 2018";
+}
+</script>
+  <script>
+function myFunction() {
+  document.getElementById("demo1").innerHTML ="This picture was 2018";
+}
+</script>
    <script>
 function myFunction() {
-  var x = document.getElementById("myBtn").value;
-  document.getElementById("demo").innerHTML = x;
+  document.getElementById("demo2").innerHTML =" was taken on the 1st of December 2018";
 }
 </script>
 </head>
@@ -131,7 +140,7 @@ function myFunction() {
     <div class="col-sm">
     <img src="images/fam.jpg" width="200" height="200" class="image-fluid" alt= "img-responsive"><br>
     <button onclick="myFunction()">information</button>
-      <p id="demo"></p>
+      <p id="demo1"></p>
 
 
     </div>
@@ -139,7 +148,7 @@ function myFunction() {
     <div class="col-sm">
       <img src="images/img1.jpg" width="200" height="200" class="image-fluid" alt= "img-responsive">
       <button onclick="myFunction()">information</button>
-      <p id="demo"></p>
+      <p id="demo2"></p>
 
     </div>
 
