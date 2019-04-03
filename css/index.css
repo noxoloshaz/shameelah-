@@ -48,4 +48,5 @@ font-size: 60px;
 }
 .panel panel-default, footer{
   background: skyblue;
+  text-align: center;
 }
