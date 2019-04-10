@@ -54,7 +54,7 @@ font-size: 60px;
   margin-left: 250px;
 }
   
-@media screen and (max-width:992px) {
+@media screen and (max-width:400px) {
   .view {
  background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/42380wide.jpg");
  background-size: cover;
@@ -63,6 +63,6 @@ font-size: 60px;
 }
   body{
   margin: auto;
-    max-width: 800px;
+    max-width: 1024px;
   }
 }
