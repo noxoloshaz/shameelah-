@@ -61,4 +61,8 @@ font-size: 60px;
  width: 100%;
  filter: brightness(100%);
 }
+  body{
+  margin: auto;
+    max-width: 800px;
+  }
 }
