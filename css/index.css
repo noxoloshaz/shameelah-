@@ -53,3 +53,6 @@ font-size: 60px;
 #slide{
   margin-left: 250px;
 }
+@media screen and (max-width:992px) {
+ 
+}
