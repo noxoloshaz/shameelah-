@@ -50,11 +50,11 @@ font-size: 60px;
   background-color: skyblue;
   text-align: center;
 }
-
-@media screen and (max-width:992px) {
  #slide{
   margin-left: 250px;
 }
+  
+@media screen and (max-width:992px) {
   .view {
  background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/42380wide.jpg");
  background-size: cover;
