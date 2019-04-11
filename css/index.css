@@ -17,6 +17,7 @@ header,
 }
 .navbar{
   opacity: 0.5;
+  font-size: 25px;
 }
 .logo {
   width: 100px;
