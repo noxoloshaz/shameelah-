@@ -53,9 +53,6 @@ font-size: 60px;
     display: flex;
    justify-content: center;
   } 
-  
-@media screen and(max-width:992px;){
   #slide{
-    margin-left: 250px;
+    margin-left: 300px;
   }
-}
