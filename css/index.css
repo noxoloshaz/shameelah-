@@ -17,6 +17,7 @@ header,
 }
 .navbar{
   opacity: 0.5;
+  font-size: 30px;
 }
 .logo {
   width: 100px;
@@ -49,10 +50,6 @@ font-size: 60px;
   background-color: skyblue;
   text-align: center;
 }
- #slide{
-    display: flex;
-   justify-content: center;
-  } 
   #slide{
     margin-left: 300px;
   }
