@@ -49,7 +49,9 @@ font-size: 60px;
   background-color: skyblue;
   text-align: center;
 }
- 
+ #slide{
+    margin-left: 250px;
+  } 
   
 @media screen and(max-width:992px;){
   #slide{
