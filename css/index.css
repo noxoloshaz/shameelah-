@@ -9,6 +9,7 @@ header,
 .view {
  background-image: url("https://cn.opendesktop.org/img/4/6/b/6/74bb164309a4c974001afe44eacd1d828c86.jpg");
  background-size: cover;
+  background-position: center;
  width: 100%;
  filter: brightness(100%);
 }
@@ -55,15 +56,4 @@ font-size: 60px;
   }
 .like{
   margin-left: 70px;
-}
-@media only screen and (min-width: 600px) {
-.view {
- background-image: url("https://cn.opendesktop.org/img/4/6/b/6/74bb164309a4c974001afe44eacd1d828c86.jpg");
- width: 100%;
- filter: brightness(100%);
-}
-  .navbar{
-  opacity: 0.5;
-  font-size: 12px;
-}
 }
